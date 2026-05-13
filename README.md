@@ -36,7 +36,7 @@ L’environnement contient différentes pannes réalistes inspirées de situatio
 
 Le fichier .ova est disponible en téléchargement ici :
 
-[Download the VM](https://drive.google.com/file/d/15U_ijtBWetPwz66sYRa8a5XjsE0JUyja/view?usp=sharing)
+[Download the VM](https://drive.google.com/uc?export=download&id=15U_ijtBWetPwz66sYRa8a5XjsE0JUyja)
 
 # 🎯 Objectifs
 
